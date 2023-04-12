@@ -148,3 +148,8 @@ Content Cell | Content Cell
 
 ## Раздел шестой - Ссылки
 
+Чтобы создать ссылку, заключите текст ссылки в квадратные скобки (например, [Duck Duck Go]), а сразу затем вставьте URL в круглых скобках (например, (https://duckduckgo.com)):
+
+[Duck Duck Go](https://duckduckgo.com)
+
+
